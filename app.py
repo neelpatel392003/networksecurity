@@ -1,3 +1,4 @@
+from numpy import _NDIterFlagsKind
 import sys
 import os
 
